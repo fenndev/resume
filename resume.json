@@ -1,0 +1,131 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Fenn Martyn",
+    "label": "Full-Stack Software Developer",
+    "summary": "A passionate software developer with a deep interest in continuous learning and developent as well as a deep love for writing clean, effective code.",
+    "email": "contact@fenndev.io",
+    "phone": "907-312-0573",
+    "url": "https://fenndev.io",
+    "location": {
+      "city": "Tacoma",
+      "countryCode": "US",
+      "region": "Washington"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "fenndev",
+        "url": "https://github.com/fenndev"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "fenndev",
+        "url": "https://linkedin.com/in/fenndev"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Geek Squad",
+      "position": "Advanced Repair Agent",
+      "location": "Tacoma, WA",
+      "startDate": "January 2021",
+      "summary": "Responsible for repairing and troubleshooting a variety of electronic devices, including iPhones, laptops, and desktop computers. Additionally provided initial triage for assessing physical damage and software issues for clients."
+    },
+    {
+      "name": "Microsoft",
+      "position": "Junior Software QA",
+      "location": "Redmond, WA",
+      "startDate": "November 2020",
+      "endDate": "December 2021",
+      "summary": "Worked in tandem with developers to assess and test the stability and functionality of then-unreleased software under NDA. Responsible for measuring software performance and submitting bug reports to senior QA leads, as well as testing patches for previously identified issues."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Alaska Fairbanks",
+      "area": "Computer Science",
+      "startDate": "August 2017",
+      "endDate": "November 2020"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio Site",
+      "description": "My personal website, built with the Svelte framework and hosted on Vercel.",
+      "url": "https://fenndev.io",
+      "roles": [
+        "Developer"
+      ]
+    },
+    {
+      "name": "To-Dah!",
+      "description": "A simple vanilla Javascript to-do app.",
+      "url": "https://fenndev.github.io/todah-app/",
+      "roles": [
+        "Developer"
+      ]
+    },
+    {
+      "name": "UNE Site",
+      "description": "A website for the United Nations of Earth, a fictional organization from the strategy game Stellaris. Follows the design docs of the actual United Nations organization.",
+      "url": "https://fenndev.github.io/une-site/",
+      "roles": [
+        "Developer"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [
+        "C#",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "Python",
+        "MongoDB",
+        "SQL",
+        "Java",
+        "Sass/SCSS"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [
+        "Svelte",
+        "Vue",
+        "React",
+        "NodeJS",
+        "Express",
+        "Electron"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Visual Studio",
+        "NPM",
+        "Webpack",
+        "Babel",
+        "Rollup",
+        "Jest",
+        "Unity",
+        "Figma",
+        "Adobe Photoshop",
+        "GIMP",
+        "Inkscape"
+      ]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
