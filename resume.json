@@ -1,5 +1,4 @@
 {
-  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Fenn Martyn",
     "label": "Full-Stack Software Developer",
@@ -46,8 +45,7 @@
     {
       "institution": "University of Alaska Fairbanks",
       "area": "Computer Science",
-      "startDate": "August 2017",
-      "endDate": "November 2020"
+      "studyType": "Bachelor's - DNG"
     }
   ],
   "projects": [
