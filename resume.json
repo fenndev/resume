@@ -29,15 +29,15 @@
       "name": "Geek Squad",
       "position": "Advanced Repair Agent",
       "location": "Tacoma, WA",
-      "startDate": "January 2021",
+      "startDate": "2021-01",
       "summary": "Responsible for repairing and troubleshooting a variety of electronic devices, including iPhones, laptops, and desktop computers. Additionally provided initial triage for assessing physical damage and software issues for clients."
     },
     {
       "name": "Microsoft",
       "position": "Junior Software QA",
       "location": "Redmond, WA",
-      "startDate": "November 2020",
-      "endDate": "December 2021",
+      "startDate": "2020-11",
+      "endDate": "2021-12",
       "summary": "Worked in tandem with developers to assess and test the stability and functionality of then-unreleased software under NDA. Responsible for measuring software performance and submitting bug reports to senior QA leads, as well as testing patches for previously identified issues."
     }
   ],
